@@ -5,7 +5,7 @@
  The  arm  is very  flexible  and can  be  made suitable  in  places  where  the environment is not safe for humans like firework manufacturing industry,bomb  diffusing  etc. 
  There  are  various  techniques for  controlling  the  robotic  arm.
 
-![Complete Robotic Hand]() 
+![Complete Robotic Hand](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/video1.mp4) 
 
 
 <h1>REQUIRED COMPONENT</h1>
