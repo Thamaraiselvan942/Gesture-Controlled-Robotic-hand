@@ -5,7 +5,7 @@
  The  arm  is very  flexible  and can  be  made suitable  in  places  where  the environment is not safe for humans like firework manufacturing industry,bomb  diffusing  etc. 
  There  are  various  techniques for  controlling  the  robotic  arm.
 
-![Complete Robotic Hand](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/video1.mp4) 
+![Complete Robotic Hand]()
 
 
 <h1>REQUIRED COMPONENT</h1>
@@ -18,28 +18,30 @@
 ![Logo](https://github.com/Thamaraiselvan942/Face-Recognition-Using-Door-Lock-System/blob/main/Components%20used/2.jpg)
 
 3.CARDBOARD ROBOTIC HAND/3D PRINTED HAND -->(1)
-![Logo]()
+
+![Logo](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/4.png)
 
 <h1>CARDBOARD ROBOTIC HAND MAKING METHOD</h1>
+
 **All seprate Fingers**
 
-![Logo]()
+![Logo](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/1.png)
 
 **After 4 Finger Connected**
 
-![Logo]()
+![Logo](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/2.png)
 
 **After 5 Finger Connected With Palm**
 
-![Logo]()
+![Logo](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/3.png)
 
 **Each Fingure Connected With Elastic material/band**
 
-![Logo]()
+![Logo](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/5.png)
 
 **After Hand Connected With Wrist**
 
-![Logo]()
+![Logo](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/4.png)
 
 
 
@@ -56,7 +58,7 @@
 * The circuit Diagram is given below .The All 5 Servo Motor Signal Pin will be Connected to the arduino Pwm Pin Number 9,so We can use a seprate bread board for better connection .
   The 5V pin will be connected to Arduino 5v pin and Ground pin will be connected to Arduino Ground pin.Arduino must be connected to Pc through arduino Cable. 
    
-   ![Logo](/circuitdiagram.JPG)
+   ![Logo](https://github.com/Thamaraiselvan942/Gesture-Controlled-Robotic-hand/blob/main/circuit%20diagram.png)
    
  **FUNCTIONAL PREVIEW**
  
